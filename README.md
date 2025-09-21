@@ -16,5 +16,8 @@
 ## 構成図
 ![VMware構成図](./vmware-webdb/docs/ネットワーク構成図_VMwareWebDB.png)
 
-## [フォーム画面]スクリーンショット
+### PHPフォーム入力画面
 ![フォーム画面](./vmware-webdb/docs/php-form_test.png)
+
+### DBに保存されたレコード
+![DB保存結果](./vmware-webdb/docs/mysql_deta_test)
