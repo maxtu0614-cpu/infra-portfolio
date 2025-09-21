@@ -17,4 +17,4 @@
 ![VMware構成図](./vmware-webdb/docs/ネットワーク構成図_VMwareWebDB.png)
 
 ## スクリーンショット
-![フォーム画面](php-form_test.png)
+![フォーム画面](./vmware-webdb/docs/php-form_test.png)
