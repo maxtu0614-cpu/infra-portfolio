@@ -13,3 +13,5 @@
 - NATネットワーク上に２台構築
 - PHPフォームからMySQLにデータを保存
 - セキュリティ設定(ユーザー権限、bind-address制御)
+## 構成図
+![VMware構成図](./vmware-webdb/docs/ネットワーク構成図_VMwareWebDB)
