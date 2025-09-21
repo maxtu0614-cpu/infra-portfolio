@@ -20,4 +20,6 @@
 ![フォーム画面](./vmware-webdb/docs/php-form_test.png)
 
 ### DBに保存されたレコード
-![DB保存結果](./vmware-webdb/docs/mysql_deta_test)
+![DB保存結果](./vmware-webdb/docs/mysql_deta_test.png)
+
+フォームから送信したデータがMySQLに保存される様子を確認できます。
